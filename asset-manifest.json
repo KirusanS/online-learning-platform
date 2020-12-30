@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/online-learning-platform/static/css/main.2341808d.chunk.css",
-    "main.js": "/online-learning-platform/static/js/main.a85bcf2b.chunk.js",
-    "main.js.map": "/online-learning-platform/static/js/main.a85bcf2b.chunk.js.map",
+    "main.js": "/online-learning-platform/static/js/main.8243c63a.chunk.js",
+    "main.js.map": "/online-learning-platform/static/js/main.8243c63a.chunk.js.map",
     "runtime-main.js": "/online-learning-platform/static/js/runtime-main.6e85ef64.js",
     "runtime-main.js.map": "/online-learning-platform/static/js/runtime-main.6e85ef64.js.map",
     "static/css/2.705119b7.chunk.css": "/online-learning-platform/static/css/2.705119b7.chunk.css",
     "static/js/2.82d99792.chunk.js": "/online-learning-platform/static/js/2.82d99792.chunk.js",
     "static/js/2.82d99792.chunk.js.map": "/online-learning-platform/static/js/2.82d99792.chunk.js.map",
     "index.html": "/online-learning-platform/index.html",
-    "precache-manifest.63d6576f2cf9908fe7e783e80c740a35.js": "/online-learning-platform/precache-manifest.63d6576f2cf9908fe7e783e80c740a35.js",
+    "precache-manifest.cb51f3269581ec5ea80f24d5a089b6bf.js": "/online-learning-platform/precache-manifest.cb51f3269581ec5ea80f24d5a089b6bf.js",
     "service-worker.js": "/online-learning-platform/service-worker.js",
     "static/css/2.705119b7.chunk.css.map": "/online-learning-platform/static/css/2.705119b7.chunk.css.map",
     "static/css/main.2341808d.chunk.css.map": "/online-learning-platform/static/css/main.2341808d.chunk.css.map",
@@ -59,6 +59,6 @@
     "static/css/2.705119b7.chunk.css",
     "static/js/2.82d99792.chunk.js",
     "static/css/main.2341808d.chunk.css",
-    "static/js/main.a85bcf2b.chunk.js"
+    "static/js/main.8243c63a.chunk.js"
   ]
 }
