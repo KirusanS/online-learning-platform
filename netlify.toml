@@ -1,6 +1,6 @@
 [build]
   command = "CI= npm run build"
-  publish="/src/react/build"
+  publish="/src/react/public"
   base = "/src/react/"
 
 [[redirects]]
