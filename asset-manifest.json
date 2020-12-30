@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/online-learning-platform/static/css/main.2341808d.chunk.css",
-    "main.js": "/online-learning-platform/static/js/main.8243c63a.chunk.js",
-    "main.js.map": "/online-learning-platform/static/js/main.8243c63a.chunk.js.map",
+    "main.js": "/online-learning-platform/static/js/main.f640e1d6.chunk.js",
+    "main.js.map": "/online-learning-platform/static/js/main.f640e1d6.chunk.js.map",
     "runtime-main.js": "/online-learning-platform/static/js/runtime-main.6e85ef64.js",
     "runtime-main.js.map": "/online-learning-platform/static/js/runtime-main.6e85ef64.js.map",
     "static/css/2.705119b7.chunk.css": "/online-learning-platform/static/css/2.705119b7.chunk.css",
-    "static/js/2.82d99792.chunk.js": "/online-learning-platform/static/js/2.82d99792.chunk.js",
-    "static/js/2.82d99792.chunk.js.map": "/online-learning-platform/static/js/2.82d99792.chunk.js.map",
+    "static/js/2.d224ceca.chunk.js": "/online-learning-platform/static/js/2.d224ceca.chunk.js",
+    "static/js/2.d224ceca.chunk.js.map": "/online-learning-platform/static/js/2.d224ceca.chunk.js.map",
     "index.html": "/online-learning-platform/index.html",
-    "precache-manifest.cb51f3269581ec5ea80f24d5a089b6bf.js": "/online-learning-platform/precache-manifest.cb51f3269581ec5ea80f24d5a089b6bf.js",
+    "precache-manifest.64d94b760a7566aebbe3b3e8f1d4a6b1.js": "/online-learning-platform/precache-manifest.64d94b760a7566aebbe3b3e8f1d4a6b1.js",
     "service-worker.js": "/online-learning-platform/service-worker.js",
     "static/css/2.705119b7.chunk.css.map": "/online-learning-platform/static/css/2.705119b7.chunk.css.map",
     "static/css/main.2341808d.chunk.css.map": "/online-learning-platform/static/css/main.2341808d.chunk.css.map",
-    "static/js/2.82d99792.chunk.js.LICENSE.txt": "/online-learning-platform/static/js/2.82d99792.chunk.js.LICENSE.txt",
+    "static/js/2.d224ceca.chunk.js.LICENSE.txt": "/online-learning-platform/static/js/2.d224ceca.chunk.js.LICENSE.txt",
     "static/media/backgroundAbout.svg": "/online-learning-platform/static/media/backgroundAbout.b4374b51.svg",
     "static/media/backgroundHome.svg": "/online-learning-platform/static/media/backgroundHome.7e22cd67.svg",
     "static/media/backgroundgradient.png": "/online-learning-platform/static/media/backgroundgradient.34d40638.png",
@@ -57,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e85ef64.js",
     "static/css/2.705119b7.chunk.css",
-    "static/js/2.82d99792.chunk.js",
+    "static/js/2.d224ceca.chunk.js",
     "static/css/main.2341808d.chunk.css",
-    "static/js/main.8243c63a.chunk.js"
+    "static/js/main.f640e1d6.chunk.js"
   ]
 }

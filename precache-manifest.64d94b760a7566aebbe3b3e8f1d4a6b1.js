@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44b72bae2723cb1b91a2bc0c575a6973",
+    "revision": "30a6b2c25ec0a688b1f69255b34bd2c4",
     "url": "/online-learning-platform/index.html"
   },
   {
-    "revision": "1ce8aa9366d4565bfbe1",
+    "revision": "923e879182622d992846",
     "url": "/online-learning-platform/static/css/2.705119b7.chunk.css"
   },
   {
-    "revision": "2928d9a7b1fa3ab14d30",
+    "revision": "898a4f102d0b3a4bf276",
     "url": "/online-learning-platform/static/css/main.2341808d.chunk.css"
   },
   {
-    "revision": "1ce8aa9366d4565bfbe1",
-    "url": "/online-learning-platform/static/js/2.82d99792.chunk.js"
+    "revision": "923e879182622d992846",
+    "url": "/online-learning-platform/static/js/2.d224ceca.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/online-learning-platform/static/js/2.82d99792.chunk.js.LICENSE.txt"
+    "url": "/online-learning-platform/static/js/2.d224ceca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2928d9a7b1fa3ab14d30",
-    "url": "/online-learning-platform/static/js/main.8243c63a.chunk.js"
+    "revision": "898a4f102d0b3a4bf276",
+    "url": "/online-learning-platform/static/js/main.f640e1d6.chunk.js"
   },
   {
     "revision": "318c3522e8124c4fd218",
