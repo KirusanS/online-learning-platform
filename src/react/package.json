@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+"private":true,
   "homepage": "https://kirusans.github.io/online-learning-platform",
   "dependencies": {
     "@material-ui/core": "^4.11.1",
